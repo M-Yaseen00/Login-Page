@@ -23,3 +23,26 @@ These instructions will help you get a copy of the project up and running on you
 
 ```bash
 git clone https://github.com/M-Yaseen00/LoginForm.git
+
+
+Open the project in Android Studio.
+
+Build and run the project on an Android emulator or a physical device.
+
+Usage
+Launch the app on your Android device or emulator.
+Enter the provided username and password for demonstration purposes.
+Explore the login functionality and UI design.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+This project was created as a learning exercise and is meant to be a starting point for Android app development.
+Feel free to customize and expand upon it to suit your specific project requirements.
+Author
+Muhammad  Yaseen
+Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: my6455762@gmail.com@example.com
+GitHub: M-Yaseen00
